@@ -38,6 +38,5 @@ File
  Algorithm:
  * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
  File 
-* Put source images and masks images under folder cvbot/data
-    * Source images: sr_image.jpeg
+* Put source images under folder cvbot/img named 'xx_super_resolution_input.png'
  
