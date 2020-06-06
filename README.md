@@ -6,7 +6,7 @@ Collect Computer Vision (CV) approaches and apply them.
 
 # Update 06 June 2020 
 
-*Image inpainting with OpenCV and Python*
+## Image inpainting with OpenCV and Python
 
 Credit to: https://www.pyimagesearch.com/2020/05/18/image-inpainting-with-opencv-and-python/
 
@@ -25,3 +25,19 @@ File
         * You can create it by built-in image editor in Mac. 
             * Draw black rectangle to mask the target position 
             * Tune image contrast to min and exposure to max.
+         
+## Image Super resolution
+ 
+ Credit to: https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution    
+ 
+ 
+ Require input:
+ * Source Images
+ * Pre-trained pytorch model 
+ 
+ Algorithm:
+ * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+ File 
+* Put source images and masks images under folder cvbot/data
+    * Source images: sr_image.jpeg
+ 
